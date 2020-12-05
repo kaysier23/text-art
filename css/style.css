@@ -1,0 +1,58 @@
+.t1 {
+  stroke: green;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 2.1em;
+  filter: drop-shadow(2px 2px 2px #a60);
+}
+.t2 {
+  stroke: lightgreen;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 2em;
+  filter: drop-shadow(2px 2px 2px #a60);
+}
+.t3 {
+  fill: #27db36;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 0.94em;
+  filter: drop-shadow(2px 2px 2px #a60);
+}
+.t4 {
+  fill: #57d962;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1.1em;
+  filter: drop-shadow(2px 2px 2px #a60);
+}
+.t5 {
+  fill: #0e9c1a;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 0.6em;
+  filter: drop-shadow(2px 2px 2px #a60);
+}.t6 {
+  fill: #27c434;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1.2em;
+  filter: drop-shadow(2px 2px 2px #a60);
+}
+.t7 {
+  fill: #76cc7d;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 0.66em;
+  filter: drop-shadow(2px 2px 2px #a60);
+}
+#content{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+body{
+  background: #000;
+  color: #ddd;
+}
